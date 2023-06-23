@@ -5,6 +5,8 @@ Prerequisite: install [ripgrep](https://github.com/BurntSushi/ripgrep).
 
 Big thanks to [@ThePrimeage](https://github.com/ThePrimeagen) for providing these neovim base configurations and guides for free.
 
+Many configs shamelessly copied from https://github.com/craftzdog/dotfiles-public. Thanks [@craftzdog](https://github.com/craftzdog)!
+
 For anyone that is interested in my vimrc, i will have a commit log below
 documenting each one of my commits (easy to C-f the change you want to know
 about though i would just suggest `git log -S`).
